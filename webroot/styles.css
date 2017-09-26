@@ -1,0 +1,47 @@
+.input-append .btn.dropdown-toggle {
+    float: none;
+}
+
+.debug {
+    background-color:gray;
+    color:white;
+}
+
+.edit {
+    visibility: hidden;
+}
+
+.hidden_images img {
+    position: absolute; 
+    visibility: hidden;  
+    width: 50px; 
+}
+
+#pagination {
+    text-align: center;
+}
+
+#search{
+    float: left; 
+}
+
+#search input{
+    display: inline;    
+}
+
+#search input[type="text"] {
+    width: 200px;
+}
+
+#search input[type="submit"] {
+    width: 70px;
+}
+
+#add{
+    display: inline;
+    float: right;
+}
+
+#main{
+    margin-top:20px;
+}
